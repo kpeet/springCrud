@@ -41,6 +41,18 @@
 		</dependency>	
 <!-- DEPENDENCIAS AGREGADAS POR KPEET -->
 	<!-- google map -->
+	<dependency>
+	    <groupId>com.google.maps</groupId>
+	    <artifactId>google-maps-services</artifactId>
+	    <version>0.1.1</version>
+	</dependency>
+	
+	<!-- MYSQL -->
+	<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>5.1.38</version>
+		</dependency>
 <dependency>
 			<groupId>taglibs</groupId>
 			<artifactId>standard</artifactId>
