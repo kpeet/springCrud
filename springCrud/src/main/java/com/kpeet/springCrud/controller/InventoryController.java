@@ -13,11 +13,6 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.google.maps.DistanceMatrixApi;
-import com.google.maps.GeoApiContext;
-import com.google.maps.GeocodingApi;
-import com.google.maps.model.DistanceMatrix;
-import com.google.maps.model.GeocodingResult;
 import com.kpeet.springCrud.service.LocationManager;
 
 @Controller
